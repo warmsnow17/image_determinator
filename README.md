@@ -37,4 +37,5 @@
 
 python manage.py test app
 
-![Рабочая панель](https://github.com/warmsnow17/image_determinator/media/images/picture.png)
+![Рабочая панель](https://github.com/warmsnow17/image_determinator/blob/master/image_determinator/media/images/picture.png)
+
