@@ -36,3 +36,5 @@
 Запустите тесты следующей командой:
 
 python manage.py test app
+
+![Рабочая панель](https://github.com/warmsnow17/image_determinator/blob/master/media/images/picture.png)
