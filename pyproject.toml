@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "image-determinator"
+version = "0.1.0"
+description = ""
+authors = ["user <bav-574@mail.ru>"]
+readme = "README.md"
+packages = [{include = "image_determinator"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+django = "^4.2.2"
+pillow = "^9.5.0"
+torch = "^2.0.1"
+torchvision = "^0.15.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
